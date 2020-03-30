@@ -1,0 +1,1 @@
+INSERT INTO COUNTRY (NAME_EN, NAME_AR) VALUES ('Egypt', 'مصر');
